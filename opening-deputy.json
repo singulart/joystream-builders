@@ -1,0 +1,60 @@
+{
+"applicationDetails": "Builders Deputy Lead [JOY-0037] - REDUCED APPLICATION STAKE!",
+"title": "Builders Deputy Lead",
+"shortDescription": "[Joystream Video DAO](https://joystream.org) is actively looking for a Builders Deputy Lead",
+"description": "[Joystream Video DAO](https://joystream.org) is actively looking for a Builders Working Group Deputy Lead to join our team. This role is mainly managerial one. Applicants are expected to have proven track of experience in Agile, managing remote and distributed teams. \n\nWho are we:\n\n- Joystream is an open-source blockchain project that will be truly user-governed. \n\n - [Builders](https://joystream.notion.site/Who-we-are-d34c0f54ac804b429db4c260ddac29ba) are a small groups of engineers helping to make Jsgenesis products better\n\nWho are you:\n\n- Currently employed (have a day job) \n\n- Have at least 1 year commercial experience as the project manager \n\n- Experience in Agile methodologies: Scrum, SAFe \n\n- Team Facilitation \n\n-  \n\n- Weekly Reporting \n\n- Github Projects \n\n- Time tracking \n\n- Self-starter, fast learner\n\n- Have excellent communication skills \n\n[📝 Apply Today!](https://dao.joystream.org/#/working-groups/openings/operationsWorkingGroupAlpha-37)",
+"applicationFormQuestions": [{
+"question": "Are you currently employed?"
+},
+{
+"question": "Tell us a bit about yourself"
+},
+{
+"question": "What is your timezone?"
+},
+{
+"question": "Are you based in US?"
+},
+{
+"question": "Years of experience in Agile"
+},
+{
+"question": "Years of experience in Scrum"
+},
+{
+"question": "Years of experience in Kanban"
+},
+{
+"question": "Do you have experience with Github Projects?"
+},
+{
+question: "Are you comfortable to be interviewed in English in voice?"
+},
+{
+"question": "Your availability, in hours per day"
+},
+{
+"question": "Do you understand the compensation model?"
+},
+{
+"question": "Your Discord"
+},
+{
+"question": "Your Twitter"
+},
+{
+"question": "Link to your CV"
+},
+{
+"question": "Recommend us an awesome podcast"
+},
+{
+"question": "Recommend us an awesome video channel"
+}
+],
+"stakingPolicy": {
+"amount":5000,
+"unstakingPeriod": 43201
+},
+"rewardPerBlock": 5
+}

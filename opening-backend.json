@@ -1,0 +1,57 @@
+{
+"applicationDetails": "Backend developer [JOY-0036] - REDUCED Stake!!!",
+"title": "Backend developer needed",
+"shortDescription": "[Joystream Video DAO](https://www.joystream.org/) is actively looking for a Backend Developer to join **Builders**, the community developers team",
+"description": "[Joystream Video DAO](https://www.joystream.org/) is actively looking for a Backend Developer to join **Builders**, the community developers team.\n\nWho are we:\n\n* Joystream is an open-source blockchain project that will be truly user-governed \n\n* [Builders](https://joystream.notion.site/Who-we-are-d34c0f54ac804b429db4c260ddac29ba) are a small groups of engineers helping to make Jsgenesis products better\n\nWho are you:\n\n1. Currently employed (have a day job) \n\n2. Have at least 2 years of commercial experience in Javascript backend development \n\n3. Node.js \n\n4. Typescript, Axios \n\n5. GraphQL \n\n6. PostgreSQL \n\n7. Dev Ops \n\n8. Git \n\n9. Self-starter \n\n10. Fast learner\n\n11. Polkadot background will be an advantage \n\n12. Nest.js background will be an advantage \n\n [📝 Apply Today!](https://dao.joystream.org/#/working-groups/openings/operationsWorkingGroupAlpha-36)",
+"applicationFormQuestions": [{
+"question": "Are you currently employed?"
+},
+{
+"question": "What is your timezone?"
+},
+{
+"question": "Are you based in US?"
+},
+{
+"question": "Years of experience in Node.js / Typescript"
+},
+{
+"question": "Years of experience with Dev Ops"
+},
+{
+"question": "Years of experience with PostgreSQL"
+},
+{
+"question": "Tell us a bit about youself"
+},
+{
+"question": "Your availability, in hours per day"
+},
+{
+"question": "Do you understand the compensation model?"
+},
+{
+"question": "Your Github"
+},
+{
+"question": "Your Discord"
+},
+{
+"question": "Your Twitter"
+},
+{
+"question": "Link to your CV"
+},
+{
+"question": "Recommend us an awesome podcast"
+},
+{
+"question": "Recommend us an awesome video channel"
+}
+],
+"stakingPolicy": {
+"amount": 5000,
+"unstakingPeriod": 43201
+},
+"rewardPerBlock": 5
+}
