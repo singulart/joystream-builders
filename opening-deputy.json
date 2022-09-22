@@ -1,10 +1,10 @@
 {
-"applicationDetails": "Builders Deputy Lead [JOY-0037] - REDUCED APPLICATION STAKE!",
+"applicationDetails": "Builders Deputy Lead [JOY-0043] - REDUCED APPLICATION STAKE!",
 "title": "Builders Deputy Lead",
 "shortDescription": "[Joystream Video DAO](https://joystream.org) is actively looking for a Builders Deputy Lead",
-"description": "[Joystream Video DAO](https://joystream.org) is actively looking for a Builders Working Group Deputy Lead to join our team. This role is mainly managerial one. Applicants are expected to have proven track of experience in Agile, managing remote and distributed teams. \n\nWho are we:\n\n- Joystream is an open-source blockchain project that will be truly user-governed. \n\n - [Builders](https://joystream.notion.site/Who-we-are-d34c0f54ac804b429db4c260ddac29ba) are a small groups of engineers helping to make Jsgenesis products better\n\nWho are you:\n\n- Currently employed (have a day job) \n\n- Have at least 1 year commercial experience as the project manager \n\n- Have recent hands-on experience in Agile methodologies: Scrum, SAFe etc\n\n- Team Facilitation Guru\n\n- Weekly Reporting Expert\n\n- Github Projects Know-it-all\n\n- Time tracking Jesus\n\n- Self-starter, fast learner\n\n- Have excellent communication skills \n\n[📝 Apply Today!](https://dao.joystream.org/#/working-groups/openings/operationsWorkingGroupAlpha-37)",
+"description": "[Joystream Video DAO](https://joystream.org) is actively looking for a Builders Working Group Deputy Lead to join our team. This role is mainly managerial one. Applicants are expected to have proven track of experience in Agile, managing remote and distributed teams. \n\nWho are we:\n- Joystream is an open-source blockchain project that will be truly user-governed. \n- [Builders](https://joystream.notion.site/Who-we-are-d34c0f54ac804b429db4c260ddac29ba) are a small group of engineers improving Jsgenesis products\n\nWho are you:\n\n- Have at least 1 year commercial experience as the project manager \n- Have recent hands-on experience in Agile methodologies: Scrum, SAFe etc\n- Excellent facilitator and motivator\n- Comfortable with Github Projects, or any other industry-standard tool for task management\n- Comfortable in reporting routine\n- Self-starter, fast learner\n- Have excellent communication skills\n- Proven previous experience in a similar role within a _DAO_ will definitely be an advantage! \n\n[📝 Apply Today!](https://dao.joystream.org/#/working-groups/openings/operationsWorkingGroupAlpha-43)",
 "applicationFormQuestions": [{
-"question": "Are you currently employed?"
+"question": "Did you ever manage a group of people within a DAO?"
 },
 {
 "question": "Tell us a bit about yourself"
@@ -53,8 +53,8 @@
 }
 ],
 "stakingPolicy": {
-"amount":5000,
+"amount":500000,
 "unstakingPeriod": 43201
 },
-"rewardPerBlock": 5
+"rewardPerBlock": 14
 }
