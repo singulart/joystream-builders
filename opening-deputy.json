@@ -1,60 +1,60 @@
 {
-"applicationDetails": "Builders Deputy Lead [JOY-0043] - REDUCED APPLICATION STAKE!",
+"applicationDetails": "Builders Deputy Lead [JOY-0044]",
 "title": "Builders Deputy Lead",
 "shortDescription": "[Joystream Video DAO](https://joystream.org) is actively looking for a Builders Deputy Lead",
-"description": "[Joystream Video DAO](https://joystream.org) is actively looking for a Builders Working Group Deputy Lead to join our team. This role is mainly managerial one. Applicants are expected to have proven track of experience in Agile, managing remote and distributed teams. \n\nWho are we:\n- Joystream is an open-source blockchain project that will be truly user-governed. \n- [Builders](https://joystream.notion.site/Who-we-are-d34c0f54ac804b429db4c260ddac29ba) are a small group of engineers improving Jsgenesis products\n\nWho are you:\n\n- Have at least 1 year commercial experience as the project manager \n- Have recent hands-on experience in Agile methodologies: Scrum, SAFe etc\n- Excellent facilitator and motivator\n- Comfortable with Github Projects, or any other industry-standard tool for task management\n- Comfortable in reporting routine\n- Self-starter, fast learner\n- Have excellent communication skills\n- Proven previous experience in a similar role within a _DAO_ will definitely be an advantage! \n\n[📝 Apply Today!](https://dao.joystream.org/#/working-groups/openings/operationsWorkingGroupAlpha-43)",
+"description": "[Joystream Video DAO](https://joystream.org) is actively looking for a Builders Working Group Deputy Lead to join our team. This role is mainly managerial one. Applicants are expected to have proven track of experience in Agile, managing remote and distributed teams. \n\nWho are we:\n- Joystream is an open-source blockchain project that will be truly user-governed. \n- [Builders](https://joystream.notion.site/Who-we-are-d34c0f54ac804b429db4c260ddac29ba) are a small group of engineers improving Jsgenesis products\n\nWho are you:\n\n- Have at least 1 year commercial experience as the project manager \n- Have recent hands-on experience in Agile methodologies: Scrum, SAFe etc\n- Excellent facilitator and motivator\n- Comfortable with Github Projects, or any other industry-standard tool for task management\n- Comfortable in reporting routine\n- Self-starter, fast learner\n- Have excellent communication skills\n- Proven previous experience in a similar role within a _DAO_ will definitely be an advantage! \n\n[📝 Apply Today!](https://dao.joystream.org/#/working-groups/openings/operationsWorkingGroupAlpha-44)",
 "applicationFormQuestions": [{
-"question": "Did you ever manage a group of people within a DAO?"
+"question": "(Mandatory question) Did you ever manage a group of people within a DAO?"
 },
 {
-"question": "Tell us a bit about yourself"
+"question": "(Mandatory question) Tell us a bit about yourself"
 },
 {
-"question": "What is your timezone?"
+"question": "(Mandatory question) What is your timezone?"
 },
 {
-"question": "Are you based in US?"
+"question": "(Mandatory question) Are you based in US?"
 },
 {
-"question": "Years of experience in Agile"
+"question": "(Mandatory question) Years of experience in Agile"
 },
 {
-"question": "Years of experience in Scrum"
+"question": "(Mandatory question) Years of experience in Scrum"
 },
 {
-"question": "Years of experience in Kanban"
+"question": "(Mandatory question) Years of experience in Kanban"
 },
 {
-"question": "Do you have experience with Github Projects?"
+"question": "(Mandatory question) Do you have experience with Github Projects?"
 },
 {
-"question": "Are you comfortable to be interviewed in English in voice?"
+"question": "(Mandatory question) Are you comfortable to be interviewed in English in voice?"
 },
 {
-"question": "Your availability, in hours per day"
+"question": "(Mandatory question) Your availability, in hours per day"
 },
 {
-"question": "Do you understand the compensation model?"
+"question": "(Mandatory question) Do you understand the compensation model?"
 },
 {
-"question": "Your Discord"
+"question": "(Mandatory question) Your Discord"
 },
 {
-"question": "Your Twitter"
+"question": "(Mandatory question) Your Twitter"
 },
 {
-"question": "Link to your CV"
+"question": "(Mandatory question) Link to your CV"
 },
 {
-"question": "Recommend us an awesome podcast"
+"question": "(Mandatory question) Recommend us an awesome podcast"
 },
 {
-"question": "Recommend us an awesome video channel"
+"question": "(Mandatory question) Recommend us an awesome video channel"
 }
 ],
 "stakingPolicy": {
 "amount":500000,
 "unstakingPeriod": 43201
 },
-"rewardPerBlock": 14
+"rewardPerBlock": 10
 }
